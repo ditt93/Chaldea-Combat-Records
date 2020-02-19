@@ -99,6 +99,8 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Ishtar (Rider)        | [Link](https://twitter.com/waiwaikigurumi/status/1216033244312793089?s=20) |                                                        |
 | Jeanne d'Arc (Archer) | [Link](https://twitter.com/airmong_/status/1216064209307308032?s=20)       |                                                        |
 | Lakshmibai            | [Link](https://www.bilibili.com/video/av83381865)                          |                                                        |
+| Lancelot (Berserker)  | [Link](https://www.bilibili.com/video/av86370017)                          | NoCE
+|
 | Lancelot (Saber)      | [Link](https://twitter.com/snowdroptree/status/1215930294458470400?s=20)   |                                                        |
 |                       | [Link](https://twitter.com/tarasque0221/status/1215936068333125633?s=20)   |                                                        |
 | Melt (Alter-Ego)      | [Link](https://www.bilibili.com/video/av86170700)                          |                                                        |
